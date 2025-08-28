@@ -9,7 +9,7 @@
 
 ## Test 2
 1. Pull
-2. Delete
+2. Delete/ Modify 
 3. Pull
 4. Push
 5. Merge
