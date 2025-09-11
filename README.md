@@ -11,12 +11,12 @@
 ---
 <!-- KEY -->
 ~ = : "in English" 
-Test ~ Folder Name
+*** ~ Folder Name
 ---
 
 <!--Nav-->
 dir ~ to view files of the dir u in 
-cd Test ~ to go into a folder/Dir
+cd *** ~ to go into a folder/Dir
 cd .. ~ to go back
 
 
@@ -37,6 +37,8 @@ git pull
 
 get-content README.md
 
+
+<!-- read the file -->>
 get-content Chat.txt 
 ~ read the file 
 add-content Chat.txt "Your message"
@@ -48,5 +50,6 @@ git add .
 ~ track the file u editing
 git commit -m "Your Comment" 
 ~you commit on the file you changed
-git push ~ Push your Changes so the other Person can Pull 
+git push 
+~ Push your Changes so the other Person can Pull 
 
