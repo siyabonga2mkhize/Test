@@ -37,9 +37,9 @@ git pull
 
 get-content README.md
 
-get-content Siya.txt 
+get-content Chat.txt 
 ~ read the file 
-add-content Siya.txt "Your message"
+add-content Chat.txt "Your message"
 ~ to add your Message 
 
 git status
