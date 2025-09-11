@@ -2,7 +2,11 @@
 1. login on (Microsoft Edge)
  - Github
  - TlZ
-
+2. git clone "https://github.com/siyabonga2mkhize/Test.git"
+  
+  <!-- Config -->
+1. git config --global user.name "Your Git Username"
+2. git config --global user.emai "Your Git Email"
 
 <!-- KEY -->
 ~ = : "in English" 
@@ -22,12 +26,8 @@ Ctrl + C ~ to copy
 Ctrl + V ~ to paste
 
 
-<!-- Config -->
-1. git config --global user.name "Your Git Username"
-2. git config --global user.emai "Your Git Email"
 
 <!-- working with the file -->
-git clone "https://github.com/siyabonga2mkhize/Test.git"
 git fetch ~ Fetch Changes 
 git pull ~ pull latest changes
 
