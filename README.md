@@ -41,7 +41,7 @@ git pull
 <!-- read the file -->>
 get-content Chat.txt 
 ~ read the file 
-add-content Chat.txt "Your message"
+add-content Chat.txt "Your message /n Name"
 ~ to add your Message 
 
 git status
