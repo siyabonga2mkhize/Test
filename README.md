@@ -1,4 +1,4 @@
-## Test 1
+## Test
 1. Clone
 2. Pull
 3. Create txt file with Name & surname
