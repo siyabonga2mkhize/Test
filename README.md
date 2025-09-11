@@ -1,4 +1,10 @@
-KEY
+<!-- Prerequisite -->
+1. login on (Microsoft Edge)
+ - Github
+ - TlZ
+
+
+<!-- KEY -->
 ~ = : "in English" 
 ## ~ Folder Name
 
@@ -9,25 +15,18 @@ cd .. ~ to go back
 
 
 
-** SHORTCUT **
+<!-- SHORTCUT -->
 Ctrl + ` ~ to open terminal in VS
 Shift + ~ Esc to clode terminal 
 Ctrl + C ~ to copy 		
 Ctrl + V ~ to paste
 
 
-## Prerequisite ##
-1. login on (Microsoft Edge)
- - Github
- - TlZ
-
-
-
-## Config
+<!-- Config -->
 1. git config --global user.name "Your Git Username"
 2. git config --global user.emai "Your Git Email"
 
-## working with the file 
+<!-- working with the file -->
 git clone "https://github.com/siyabonga2mkhize/Test.git"
 git fetch ~ Fetch Changes 
 git pull ~ pull latest changes
