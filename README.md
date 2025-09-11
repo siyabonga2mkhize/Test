@@ -3,6 +3,7 @@
  - Github
  - TlZ
 2. git clone "https://github.com/siyabonga2mkhize/Test.git"
+   > cd Test
   
 <!-- Config -->
 1. git config --global user.name "Your Git Username"
@@ -11,12 +12,12 @@
 ---
 <!-- KEY -->
 ~ = : "in English" 
-*** ~ Folder Name
+Test ~ Folder Name
 ---
 
 <!--Nav-->
 dir ~ to view files of the dir u in 
-cd *** ~ to go into a folder/Dir
+cd Test ~ to go into a folder/Dir
 cd .. ~ to go back
 
 
