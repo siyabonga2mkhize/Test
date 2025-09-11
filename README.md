@@ -36,7 +36,6 @@ git fetch
 git pull 
 ~ pull latest changes
 
-get-content README.md
 
 
 <!-- read the file -->>
