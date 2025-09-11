@@ -11,12 +11,12 @@
 ---
 <!-- KEY -->
 ~ = : "in English" 
-*** ~ Folder Name
+Test ~ Folder Name
 ---
 
 <!--Nav-->
 dir ~ to view files of the dir u in 
-cd *** ~ to go into a folder/Dir
+cd Test ~ to go into a folder/Dir
 cd .. ~ to go back
 
 
